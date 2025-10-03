@@ -11,12 +11,11 @@
 
 **Aplicações e Dados**  
 ![C#](https://img.shields.io/badge/-C%23-333333?style=flat&logo=csharp&logoColor=239120)  
-![.NET Framework](https://img.shields.io/badge/-.NET_Framework-333333?style=flat&logo=dotnet&logoColor=512BD4)  
+![.NET](https://img.shields.io/badge/-.NET_Framework-333333?style=flat&logo=dotnet&logoColor=512BD4)  
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)  
 ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=html5)  
 ![CSS3](https://img.shields.io/badge/-CSS-333333?style=flat&logo=css3&logoColor=1572B6)  
-![SQL Server](https://img.shields.io/badge/-SQL%20Server-333333?style=flat&logo=microsoftsqlserver&logoColor=CC2927)  
-![SSMS](https://img.shields.io/badge/-SSMS-333333?style=flat&logo=microsoftsqlserver&logoColor=white)  
+![SQL Server](https://img.shields.io/badge/-SQL%20Server-333333?style=flat&logo=microsoftsqlserver&logoColor=CC2927)   
 
 **Utilidades**  
 ![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)  
@@ -41,6 +40,6 @@
 ---
 
 ## 🌐 Onde me encontrar
-[![Linkedin](https://img.shields.io/badge/-denisborgesribeiro-blue?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/denisborgesribeiro)](www.linkedin.com/in/denisborgesribeiro)  
+[![Linkedin](https://img.shields.io/badge/-denisborgesribeiro-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/denisborgesribeiro)
 [![Gmail Badge](https://img.shields.io/badge/-denisbribeiro05@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:denisbribeiro05@gmail.com)](mailto:denisbribeiro05@gmail.com)  
 [![GitHub](https://img.shields.io/github/followers/DenisBRibeiro?label=follow&style=social)](https://github.com/DenisBRibeiro)  
